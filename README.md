@@ -9,7 +9,7 @@ sdk_version: 1.23.0
 app_file: app.py
 fullWidth: true
 header: default
-short_description: A Streamlit-based app for generating images from text prompts using FLUX.1-dev.
+short_description: Generate images from text prompts with FLUX.1-dev.
 tags:
   - text-to-image
   - AI
