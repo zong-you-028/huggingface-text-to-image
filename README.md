@@ -8,11 +8,10 @@ python_version: 3.10
 app_file: app.py
 fullWidth: true
 header: default
-short_description: Generate images from text prompts with FLUX.1-dev.
+short_description: Generate images from text with FLUX.1-dev.
 tags:
   - text-to-image
   - Streamlit
-  - AI
   - HuggingFace
 pinned: true
 ---
