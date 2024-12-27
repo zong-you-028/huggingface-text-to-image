@@ -1,20 +1,13 @@
 ---
-title: FLUX Text-to-Image Generator
-emoji: 🖼️
-colorFrom: indigo
-colorTo: pink
-sdk: streamlit
-python_version: 3.10
+title: Text To Image
+emoji: 🖼
+colorFrom: purple
+colorTo: red
+sdk: gradio
+sdk_version: 5.0.1
 app_file: app.py
-fullWidth: true
-header: default
-short_description: Generate images from text with FLUX.1-dev.
-tags:
-  - text-to-image
-  - Streamlit
-  - HuggingFace
-pinned: true
+pinned: false
 ---
 
-# FLUX Text-to-Image Generator
-This is a Streamlit-based application that uses FLUX.1-dev to generate high-quality images from text prompts. Designed to run seamlessly on Hugging Face Spaces.
+# Text-to-Image Generator
+This is a Gradle-based application that uses DiffusionPipeline to generate high-quality images from text prompts. Designed to run seamlessly on Hugging Face Spaces.
