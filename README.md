@@ -16,7 +16,7 @@ This is a Gradle-based application that uses DiffusionPipeline to generate high-
 [![Sync to Hugging Face hub](https://github.com/ARG-NCTU/huggingface-text-to-image/actions/workflows/main.yml/badge.svg)](https://github.com/ARG-NCTU/huggingface-text-to-image/actions/workflows/main.yml)
 
 
-Try Demo Text To Image [Here](https://huggingface.co/spaces/argnctu/text-to-image)
+Try Demo Text To Image [Here]([https://huggingface.co/spaces/argnctu/text-to-image](https://huggingface.co/spaces/kenyou/huggingface-text-to-image))
 
 
 ![mlops-hugging-face](https://user-images.githubusercontent.com/58792/170845235-7f00d61c-ea36-4d28-82d0-3a9b8c0f1769.png)
