@@ -149,6 +149,4 @@ with gr.Blocks(css=css) as demo:
         ],
         outputs=[result, seed],
     )
-
-if __name__ == "__main__":
-    demo.launch()
+demo.launch()
